@@ -1,3 +1,1 @@
-name = "yo"
-
-print("yoyyoyhoyoyoyyo =", name)
+print (34)
